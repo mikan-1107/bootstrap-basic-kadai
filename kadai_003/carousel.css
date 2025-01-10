@@ -32,7 +32,9 @@ body {
   background-color: transparent !important; /* 背景を透明に */
   border: none !important; /* 境界線を削除（必要なら） */
   outline: none !important; /* フォーカス時の枠線を削除 */
+  display: none;
 }
+
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
   background-color: transparent !important; /* 矢印アイコンの背景色を透明に */
